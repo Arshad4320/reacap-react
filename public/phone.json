@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Tesla Model S Plaid",
+        "brand": "Tesla",
+        "price_bdt": 12500000,
+        "color": "Pearl White",
+        "engine": "Electric",
+        "img": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2FyfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600"
+    },
+    {
+        "id": 2,
+        "name": "BMW i8",
+        "brand": "BMW",
+        "price_bdt": 15500000,
+        "color": "Crystal White",
+        "engine": "Hybrid",
+        "img": "https://images.unsplash.com/photo-1508974239320-0a029497e820?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600"
+    },
+    {
+        "id": 3,
+        "name": "Toyota Corolla Altis",
+        "brand": "Toyota",
+        "price_bdt": 3900000,
+        "color": "Silver Metallic",
+        "engine": "Petrol",
+        "img": "https://images.unsplash.com/photo-1459603677915-a62079ffd002?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600"
+    },
+    {
+        "id": 4,
+        "name": "Honda Civic 2024",
+        "brand": "Honda",
+        "price_bdt": 4200000,
+        "color": "Lunar Silver",
+        "engine": "Petrol",
+        "img": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600"
+    },
+    {
+        "id": 5,
+        "name": "Mercedes-Benz C-Class",
+        "brand": "Mercedes-Benz",
+        "price_bdt": 8500000,
+        "color": "Obsidian Black",
+        "engine": "Hybrid",
+        "img": "https://images.unsplash.com/photo-1542362567-b07e54358753?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fGNhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600"
+    },
+    {
+        "id": 6,
+        "name": "Audi A6",
+        "brand": "Audi",
+        "price_bdt": 8800000,
+        "color": "Glacier White",
+        "engine": "Petrol",
+        "img": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fGNhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600"
+    },
+    {
+        "id": 7,
+        "name": "Hyundai Sonata",
+        "brand": "Hyundai",
+        "price_bdt": 4600000,
+        "color": "Phantom Black",
+        "engine": "Hybrid",
+        "img": "https://images.unsplash.com/photo-1541443131876-44b03de101c5?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fGNhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600"
+    },
+    {
+        "id": 8,
+        "name": "Lamborghini Huracán EVO",
+        "brand": "Lamborghini",
+        "price_bdt": 52000000,
+        "color": "Verde Mantis",
+        "engine": "V10 Petrol",
+        "img": "https://images.unsplash.com/photo-1530675706010-bc677ce30ab6?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fGNhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600"
+    },
+    {
+        "id": 9,
+        "name": "Ford Mustang GT",
+        "brand": "Ford",
+        "price_bdt": 7600000,
+        "color": "Race Red",
+        "engine": "V8 Petrol",
+        "img": "https://images.unsplash.com/photo-1550355291-bbee04a92027?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTV8fGNhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600"
+    },
+    {
+        "id": 10,
+        "name": "Nissan GTR R35",
+        "brand": "Nissan",
+        "price_bdt": 12000000,
+        "color": "Gun Metallic",
+        "engine": "Twin Turbo V6",
+        "img": "https://images.unsplash.com/photo-1533416784636-2b0ccfea6b97?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjF8fGNhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600"
+    }
+]
